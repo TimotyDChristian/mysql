@@ -1,2 +1,3 @@
 # mysql
-Tugas akhir mata kuliah Basis Data Lanjut dengan topik Stored Procedure.
+Kumpulan tugas-tugas mata kuliah Basis Data Lanjut.
+A collection of assignments for Advanced Database courses.
